@@ -1,0 +1,1 @@
+<p>Praticando funções, e entendendo os metodos forEach, find, finIndex e filter </p>
